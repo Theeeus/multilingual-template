@@ -5,7 +5,7 @@ Usage
 
 1) Directory
 
-The 'languages' folder contains one file for each language supported on the website. You must create and array $lang and all the attributes that will be displayed on the webiste later.
+The 'languages' folder contains one file for each language supported on the website. You must create and array $lang and all the attributes that will later be displayed on the webiste.
 The 'common.php' file is the control and must be adjusted when including/deleting languages or if you want to change the cookie settings.
 
 2) Index.php
